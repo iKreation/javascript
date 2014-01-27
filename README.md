@@ -1,3 +1,5 @@
+Forked by airbnb javascript style guide, this will be a great starting point
+
 # Kreation JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
